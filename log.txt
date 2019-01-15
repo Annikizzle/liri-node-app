@@ -1,0 +1,28 @@
+User Command: /usr/local/bin/node,/Users/annika/annikizzle.github.io/Liri-Node-App/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/bin/node,/Users/annika/annikizzle.github.io/Liri-Node-App/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/bin/node,/Users/annika/annikizzle.github.io/Liri-Node-App/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+do-what-it-says| spotify-this-song| spotify-this-song| movie-this| 
